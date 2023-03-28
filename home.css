@@ -1,0 +1,66 @@
+body {
+	font-family: Arial, sans-serif;
+    /*background-image: url("https://htmlcolorcodes.com/assets/images/colors/gray-color-solid-background-1920x1080.png");
+    background-color: #cccccc;*/
+       
+}
+
+header {
+	background-color: #19191a;
+	color: #ffffff;
+	padding: 20px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+    
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+main {
+	margin: 20px;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+h2 {
+	margin-bottom: 20px;
+    color:  #04010f;
+}
+
+article {
+	background-color: lavender;
+	border: 1px solid #000000;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	margin-bottom: 10px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+a {
+	color: #070a07;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
